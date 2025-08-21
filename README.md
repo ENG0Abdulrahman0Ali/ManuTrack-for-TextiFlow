@@ -36,19 +36,25 @@ The repository and Google Drive will contain the following folders:
 ## 👥 Team Members
 - **Abdulrahman Ali (Team Leader)**  
   - GitHub: [ENG0Abdulrahman0Ali](https://github.com/ENG0Abdulrahman0Ali)  
-  - Email: your-email@gmail.com  
+  - Email: eng.abdulrahman.ali.shaban@gmail.com  
 
 - **Adham Walid Boghdady**  
   - GitHub: [Adham-Elboghdady](https://github.com/Adham-Elboghdady)  
   - Email: elboghdadyadhamwaled@gmail.com  
 
-- **Ahmed Mohamed Elsadek**  
-
-- **Abdelrahman Gouda Mohamed Metwally Gawish**  
-
-- **Mahmoud Adel Iraqi**  
+- **Ahmed Mohamed Elsadek**
+- GitHub: [AHMED-M-ELSADIQ](https://github.com/AHMED-M-ELSADIQ)  
+- Email: ahmed.m.elsadiq@gmail.com  
+ 
+- **Abdelrahman Gouda Mohamed Metwally Gawish**
+- GitHub: [abdulrhman-goda](https://github.com/abdulrhman-goda)  
+- Email: abdogawish2000@gmail.com
 
 - **Ahmed Abdelmaqsoud**  
+- GitHub: [AhmedAbdALMaksoud5](https://github.com/AhmedAbdALMaksoud5)  
+- Email: ahmedabdalmaksoud5@gmail.com
+
+- **Mahmoud Adel Iraqi**  
 
 ---
 
