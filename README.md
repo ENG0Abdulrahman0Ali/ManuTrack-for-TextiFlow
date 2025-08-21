@@ -43,16 +43,16 @@ The repository and Google Drive will contain the following folders:
   - Email: elboghdadyadhamwaled@gmail.com  
 
 - **Ahmed Mohamed Elsadek**
-- GitHub: [AHMED-M-ELSADIQ](https://github.com/AHMED-M-ELSADIQ)  
-- Email: ahmed.m.elsadiq@gmail.com  
+  - GitHub: [AHMED-M-ELSADIQ](https://github.com/AHMED-M-ELSADIQ)
+  - Email: ahmed.m.elsadiq@gmail.com  
  
 - **Abdelrahman Gouda Mohamed Metwally Gawish**
-- GitHub: [abdulrhman-goda](https://github.com/abdulrhman-goda)  
-- Email: abdogawish2000@gmail.com
+  - GitHub: [abdulrhman-goda](https://github.com/abdulrhman-goda)  
+  - Email: abdogawish2000@gmail.com
 
 - **Ahmed Abdelmaqsoud**  
-- GitHub: [AhmedAbdALMaksoud5](https://github.com/AhmedAbdALMaksoud5)  
-- Email: ahmedabdalmaksoud5@gmail.com
+  - GitHub: [AhmedAbdALMaksoud5](https://github.com/AhmedAbdALMaksoud5)  
+  - Email: ahmedabdalmaksoud5@gmail.com
 
 - **Mahmoud Adel Iraqi**  
 
