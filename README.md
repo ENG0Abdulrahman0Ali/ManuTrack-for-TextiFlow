@@ -1,10 +1,9 @@
-# Manufacturing-Downtime
-Data Analysis &amp; Forecasting Project for Manufacturing Downtime using SQL, Python, and Tableau.
-# 📊 Manufacturing-Downtime
+# ManuTrack for TextiFlow
+Data Analysis &amp; Forecasting Project for Manufacturing Textile-Downtime, Reducing Textile Downtime for Maximum Productivity.
+# 📊 ManuTrack-TextiFlow
 
 ## 📌 Project Overview
-This project focuses on **Data Analysis & Forecasting for Manufacturing Downtime** using multiple tools and techniques.  
-The main goal is to analyze manufacturing downtime, identify insights, and build predictive models to forecast downtime and its impact on production.  
+The core objective is to leverage advanced Data Analysis to move beyond reactive maintenance by delivering a Root Cause Analysis (RCA) of manufacturing downtime. We will synthesize operational, human resource, and maintenance quality data to develop Predictive Models capable of forecasting equipment failure and informing strategic decisions related to resource allocation and maintenance optimization. Ultimately, this project aims to maximize machine productivity and avoid critical failures to enhance overall production efficiency and increase the plant's profitability. 
 
 ---
 
@@ -12,7 +11,6 @@ The main goal is to analyze manufacturing downtime, identify insights, and build
 - **Python** (pandas, matplotlib, scikit-learn)  
 - **SQL**  
 - **Excel**  
-- **Tableau**  
 - **Power BI**  
 
 ---
@@ -33,8 +31,8 @@ The repository and Google Drive will contain the following folders:
 
 ---
 
-## 👥 Team Members
-- **Abdulrahman Ali (Team Leader)**  
+## 👥 Growneed DataGen Members
+- **Abdulrahman Ali Shaban (Team Leader)**  
   - GitHub: [ENG0Abdulrahman0Ali](https://github.com/ENG0Abdulrahman0Ali)  
   - Email: eng.abdulrahman.ali.shaban@gmail.com  
 
@@ -46,15 +44,13 @@ The repository and Google Drive will contain the following folders:
   - GitHub: [AHMED-M-ELSADIQ](https://github.com/AHMED-M-ELSADIQ)
   - Email: ahmed.m.elsadiq@gmail.com  
  
-- **Abdelrahman Gouda Mohamed Metwally Gawish**
-  - GitHub: [abdulrhman-goda](https://github.com/abdulrhman-goda)  
-  - Email: abdogawish2000@gmail.com
+- **Mahmoud Adel Erakey**
+  - GitHub: [mahmoud-erakey](https://github.com/mahmouderakey1)  
+  - Email: mahmoud.adel.erakey@gmail.com
 
-- **Ahmed Abdelmaqsoud**  
+- **Ahmed Abdalmaksoud Ali**  
   - GitHub: [AhmedAbdALMaksoud5](https://github.com/AhmedAbdALMaksoud5)  
   - Email: ahmedabdalmaksoud5@gmail.com
-
-- **Mahmoud Adel Iraqi**  
 
 ---
 
