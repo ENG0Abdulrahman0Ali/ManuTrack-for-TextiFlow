@@ -1,2 +1,81 @@
 README.md
+🏭 ManuTrack for TextiFlow
+Data Analysis & Forecasting Project for Manufacturing Textile-Downtime, Reducing Downtime for Maximum Productivity.
+________________________________________
+📌 1. Project Idea & Executive Summary
+The core objective is to leverage advanced Data Analysis to move beyond reactive maintenance by delivering a Root Cause Analysis (RCA) of textile manufacturing downtime. We will synthesize operational, human resource, and maintenance quality data to develop Predictive Models capable of forecasting equipment failure and informing strategic decisions related to resource allocation and maintenance optimization.
+Ultimately, this project aims to maximize machine productivity and avoid critical failures to enhance overall production efficiency and increase the plant's profitability.
+________________________________________
+👥 2. Team Members (Growneed DataGen)
+💻 Abdulrahman Ali Shaban (Team Leader)
+•	Role: Data Analyst / Decision Support Specialist
+•	GitHub: @ENG0Abdulrahman0Ali
+•	Email: eng.abdulrahman.ali.shaban@gmail.com
+💻 Ahmed Abdalmaksoud Ali
+•	Role: Data Analyst / Team Member
+•	GitHub: @AhmedAbdALMaksoud5
+•	Email: ahmedabdalmaksoud5@gmail.com
+💻 Adham Walid Boghdady
+•	Role: Data Analyst / Team Member
+•	GitHub: @Adham-Elboghdady
+•	Email: elboghdadyadhamwaled@gmail.com
+💻 Ahmed Mohamed Elsadek
+•	Role: Data Analyst / Team Member
+•	GitHub: @AHMED-M-ELSADIQ
+•	Email: ahmed.m.elsadiq@gmail.com
+💻 Mahmoud Adel Erakey
+•	Role: Data Analyst / Team Member
+•	GitHub: @mahmoud-erakey
+•	Email: mahmoud.adel.erakey@gmail.com
+________________________________________
+📅 3. Work Plan
+1.	Data Collection & Integration
+2.	Data Cleaning & Preparation
+3.	Exploratory Data Analysis (EDA)
+4.	Visualization & Insights
+5.	Predictive Modeling
+6.	Documentation & Reporting
+7.	Final Presentation & Delivery
+________________________________________
+🧱 4. Roles & Responsibilities
+1.	Abdulrahman Ali Shaban (Team Leader)
+o	Primary:
+o	Secondary:
+2.	Adham Walid Boghdady
+o	Primary:
+o	Secondary:
+3.	Ahmed Mohamed Elsadek
+o	Primary:
+o	Secondary:
+4.	Mahmoud Adel Erakey
+o	Primary:
+o	Secondary:
+5.	Ahmed Abdalmaksoud Ali
+o	Primary:
+o	Secondary:
+________________________________________
+🪪 5. Instructor
+•	Eng. Kareem Bakly
+________________________________________
+📂 6. Project Files & Repository Contents
+The repository includes:
+•	Analysis & Reporting/
+•	Data Acquisition/
+•	Data Cleaning & Processing/
+•	Documentation/
+Google Drive Link:
+👉 https://drive.google.com/drive/folders/1CUX74dC6OPGRXPbsiQQmmU2Cgqhnh97a?usp=sharing
+________________________________________
+⚖️ 7. License
+Licensed under Creative Commons Attribution 4.0 International (CC BY 4.0).
+You may share, adapt, and use commercially, with proper credit to:
+Growneed DataGen Team – ManuTrack for TextiFlow (2025)
+________________________________________
+🛠️ 8. Tools & Technologies Used
+Python • SQL • Power BI • Tableau • Excel
+________________________________________
+📌 9. Notes
+•	Files will be available on GitHub and Google Drive.
+•	Repository is Public.
+
 docs/
