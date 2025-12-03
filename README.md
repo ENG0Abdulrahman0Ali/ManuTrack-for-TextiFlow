@@ -47,7 +47,7 @@ The core objective is to leverage advanced **Data Analysis** to move beyond reac
 1. **Data Collection & Integration**  
    - Gathering operational and maintenance.  
    - Adjusting and aligning column structures to ensure consistency across all data sources.  
-   - Merging data into a unified relational database model (SQL-based).  
+    
 
 2. **Data Cleaning & Preparation**  
    - Handling missing values, outliers, and formatting inconsistencies.  
@@ -57,10 +57,10 @@ The core objective is to leverage advanced **Data Analysis** to move beyond reac
 3. **Exploratory Data Analysis (EDA)**  
    - Identifying downtime trends, correlations, and performance bottlenecks.  
    - Building comparison visuals.  
-   - Using **Python (Matplotlib & Seaborn)** and **Excel** for initial statistical exploration.  
+   - Using **Python** and **Excel** for initial statistical exploration.  
 
 4. **Visualization & Insights**  
-   - Designing interactive dashboards across **Excel**, **Power BI**, and **Tableau** to highlight:  
+   - Designing interactive dashboards across **Excel** and **Power BI** to highlight:  
      - Machine performance patterns  
      - Maintenance frequency  
 
@@ -84,24 +84,26 @@ The core objective is to leverage advanced **Data Analysis** to move beyond reac
 
 
 1. **Abdulrahman Ali Shaban (Team Leader)**  
-      - Primary:  
-      - Secondary:
+      - Primary:  Data Acquisition, Data Preparation, Visual Design & Theming, Domain Analysis and Business Context Documentation,      
+        Power BI: Measure/DAX Development, Predictive Modeling, Page 1: ManuTrack for TextiFlow Dashboard, Page 2: Overall Status Summary, Page 3: TT Overall Status Summary,
+        Page 4: About Team, Page 5: About Project, Visual Design & Theming for all pages in power bi.
+      - Secondary: Data Cleaning, Analytical Findings & Insights.
 
 2. **Adham Walid Boghdady**  
-       - Primary:  
-      - Secondary:
+       - Primary:  Exploratory Data Analysis - EDA (Python), Power BI: Page: Operational & Downtime Timeline.
+      - Secondary: Measure/DAX Development, Analytical Findings & Insights.
 
 3. **Ahmed Mohamed Elsadek**  
-      - Primary:  
-      - Secondary:
+      - Primary:  Initial Report Mockup Excel, Power BI: Page: Asset Priority & Maintenance Scheduling.
+      - Secondary: Measure/DAX Development, Analytical Findings & Insights.
 
 4. **Mahmoud Adel Erakey**  
-      - Primary:  
-      - Secondary:
+      - Primary:  Power BI: Page: Environmental Conditions & Impacts.
+      - Secondary: Measure/DAX Development, Analytical Findings & Insights.
       
 5. **Ahmed Abdalmaksoud Ali**  
-      - Primary:  
-      - Secondary:
+      - Primary:  Data Cleaning, ETL (ETL & Dimension Building), Relational Modeling, Power BI: Page: Machine Performance Analysis.
+      - Secondary: Measure/DAX Development, Analytical Findings & Insights.
 
 ---
 ---
